@@ -28,4 +28,4 @@
 - **React Icons**: Provides icons for enhancing the user interface.
 - **uuid**: For generating unique IDs for job entries.
 
-![GIF](job.gif)#
+![GIF](job.gif)
