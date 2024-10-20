@@ -1,6 +1,6 @@
-# Job Management App
+# Job App
 
-**Job Management App** is a React-based application that allows users to add, remove, and filter job listings. It integrates state management with Redux Toolkit, and features asynchronous data fetching and notifications.
+**Job App** is a React-based application that allows users to add, remove, and filter job listings. It integrates state management with Redux Toolkit, and features asynchronous data fetching and notifications.
 
 ## Features
 
@@ -28,4 +28,4 @@
 - **React Icons**: Provides icons for enhancing the user interface.
 - **uuid**: For generating unique IDs for job entries.
 
-![GIF](job.gif)# JobApp_redux.toolkit
+![GIF](job.gif)#
